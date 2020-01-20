@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\bin\Debug\netstandard2.0\ApexRestaurant.Services.deps.json
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\bin\Debug\netstandard2.0\ApexRestaurant.Services.dll
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\bin\Debug\netstandard2.0\ApexRestaurant.Services.pdb
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\bin\Debug\netstandard2.0\ApexRestaurant.Repository.dll
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\bin\Debug\netstandard2.0\ApexRestaurant.Repository.pdb
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\obj\Debug\netstandard2.0\ApexRestaurant.Services.csprojAssemblyReference.cache
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\obj\Debug\netstandard2.0\ApexRestaurant.Services.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\obj\Debug\netstandard2.0\ApexRestaurant.Services.AssemblyInfo.cs
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\obj\Debug\netstandard2.0\ApexRestaurant.Services.csproj.CopyComplete
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\obj\Debug\netstandard2.0\ApexRestaurant.Services.dll
+C:\Users\user\Desktop\dot net lab\ApexRestaurant.Services\obj\Debug\netstandard2.0\ApexRestaurant.Services.pdb
